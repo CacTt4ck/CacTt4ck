@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=cactt4ck&theme=tokyonight&bg_color=2F3136&text_color=fff&title_color=7289DA&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cactt4ck&&langs_count=8&card_width=250&theme=tokyonight&bg_color=2F3136&text_color=fff&title_color=7289DA&hide_border=true)
+
 <!--
 **CacTt4ck/CacTt4ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
