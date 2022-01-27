@@ -1,7 +1,8 @@
 [![CacTt4ck's GitHub stats](https://github-readme-stats.vercel.app/api?username=cactt4ck&theme=tokyonight&bg_color=2F3136&text_color=fff&title_color=7289DA&hide_border=true?count_private=true&show_icons=true)](https://github.com/cactt4ck)
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cactt4ck&langs_count=8&card_width=250&theme=tokyonight&bg_color=2F3136&text_color=fff&title_color=7289DA&hide_border=true)
+
+[![CacTt4ck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CacTt4ck)](https://github.com/CacTt4ck)
 
 <!--
 **CacTt4ck/CacTt4ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
