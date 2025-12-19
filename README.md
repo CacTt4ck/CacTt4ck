@@ -19,11 +19,13 @@
 
   ---
 
+  <!--
   ### 🏆 My GitHub Trophies
-  <!-- Trophies based on activity -->
+  Service is currently down (503)
   [![trophy](https://github-profile-trophy.vercel.app/?username=CacTt4ck&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
   ---
+  -->
 
   ### 📊 My GitHub Stats
 
