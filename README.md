@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Hi there, I'm CacTt4ck!
+  # 👋 Hi there, I'm Thomas!
 
   <!-- Typing effect -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23A7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%2F+Spring+Boot+Enthusiast;Building+EasyFoodManaging)](https://git.io/typing-svg)
